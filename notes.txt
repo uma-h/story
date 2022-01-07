@@ -1,0 +1,11 @@
+git init // to create an empty repository but not physically visible in folder.
+git status   // to track the status of files(unmodified)
+git add filename or git add . // to add that to staging area (basically to track the changes
+to those files).// to update what will be commited.
+git commit -m "message" // to commit.// like a new savepoint
+git log // shows commit made
+git diff // to see the changes done.
+git checkout filename // to rollback the changes in working directory.
+
+//github personal access token.
+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
